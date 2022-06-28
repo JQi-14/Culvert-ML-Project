@@ -12,6 +12,6 @@ Example Python codes:<br/>
 ## Access to Dr. Andrew Ng's ML courses
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
-Go to each individual course’s page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. <br/>
+Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. <br/>
 
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./corsara.png?raw=true" />
