@@ -25,7 +25,7 @@ Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Re
          a. Risk = LOF * COF    - (Overall)<br/>
          b. Flood Risk = Flood LOF * Flood COF  - (flood)<br/>
          c. CON Risk = CON LOF * CON COF  - (condition)<br/>
-         d. LOF and COF are determined based on flood and condition LOF and COF, the calculation method by CMSWS is detailed in 2_Raw_Data\Output Data – CMSWS<br/>
+         d. (overall) LOF and COF are determined based on flood and condition LOF and COF, the calculation method by CMSWS is detailed in 2_Raw_Data\Output Data – CMSWS<br/>
 
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 
