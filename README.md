@@ -15,7 +15,8 @@ You do not have to purchase a subscription to enroll in any of the courses. Ther
 Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. <br/>
 
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./corsara.png?raw=true" />
-## Understanding the raw data <686_full_data_raw_06_28_22.csv>
+
+## Understanding the raw data 686_full_data_raw_06_28_22.csv
 1. Total sample size is 686 currently<br/>
 2. Column A gives the identifiers of all records and does not contribute to the prediction result. <br/>
 3. Columns D and G are nominal type data; column H is ordinal type data.<br/>
