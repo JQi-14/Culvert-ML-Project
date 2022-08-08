@@ -6,7 +6,7 @@ The difference between the two <code>csv</code> files is that one contains un-tr
 To load the data here on Jupyter, use the **raw** form of the data as shown in the figure below.<br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
 Example Python codes:<br/>
-<code>data=pd.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
+<code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
 
 
 ## Access to Dr. Andrew Ng's ML courses
