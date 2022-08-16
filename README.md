@@ -1,5 +1,5 @@
 # Culvert-ML-Project
-This is the folder for ease of sharing of data and python codes.<br/>
+This is the folder for sharing of data and python codes.<br/>
 ***
 The difference between the two <code>csv</code> files is that one contains un-transformed raw data, the other has all values scaled by the maxmin method.
 
