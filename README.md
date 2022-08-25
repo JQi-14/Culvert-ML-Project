@@ -1,13 +1,13 @@
 # Culvert-ML-Project
 
 $\color{green}{\text{Hi team, welcome aboard!}}$<br/>
-$\color{green}{\text{In this repository, you will find data and python codes for our ML project.}}$
+$\color{green}{\text{In this repository, you will find data and python codes for our ML project.}}$<br/>
 $\color{green}{\text{You can also upload your own if you'd like.}}$<br/>
 
 
 ***
 
-
+## How to use it
 To load the data here on Jupyter, use the **raw** form of the data as shown in the figure below.<br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
 Example Python codes:<br/>
