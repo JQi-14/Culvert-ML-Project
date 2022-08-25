@@ -13,7 +13,7 @@ To load the data here on Jupyter, use the **raw** form of the data as shown in t
 Example Python codes:<br/>
 <code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
 
-## Understanding the raw data 686_full_data_raw_06_28_22.csv (there is a newer version of the dataset)
+## Understanding the data in '686_full_data_raw_06_28_22.csv' (see below for the newer versions of the dataset)
 1. Total sample size is 686 currently<br/>
 2. Column A gives the identifiers of all records and does not contribute to the prediction result. <br/>
 3. Columns D and G are nominal type data; column H is ordinal type data.<br/>
@@ -28,7 +28,7 @@ Example Python codes:<br/>
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 
 ## Understanding the data in 'Culvert Max Records Full Dataset 082522.csv'
-This dataset is 100% raw, meaning the only process it went through was joining the data from different sources.
+This dataset is 100% raw, meaning the only process it went through was joining the data from different sources. Only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. No corrections were done, so there are some negative values.
 
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
 This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications.
