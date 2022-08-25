@@ -27,8 +27,11 @@ Example Python codes:<br/>
 6. Columns I and J are somewhat related: Column I is the evaluation of how much clogging is observed, and Column J evaluates if it has caused floods due to the clogging (binary results). <br/>
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 
+## Understanding the data in 'Culvert Max Records Full Dataset 082522.csv'
+This dataset is 100% raw, meaning the only process it went through was joining the data from different sources.
+
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
-This dataset has minimal filters for missing data or incorrect data. 
+This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications.
 
 ## Access to Dr. Andrew Ng's ML courses
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
