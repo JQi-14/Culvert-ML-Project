@@ -27,6 +27,9 @@ Example Python codes:<br/>
 6. Columns I and J are somewhat related: Column I is the evaluation of how much clogging is observed, and Column J evaluates if it has caused floods due to the clogging (binary results). <br/>
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 
+## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
+This dataset has minimal filters for missing data or incorrect data. 
+
 ## Access to Dr. Andrew Ng's ML courses
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
