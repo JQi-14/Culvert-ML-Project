@@ -1,6 +1,8 @@
 # Culvert-ML-Project
 
 $\color{green}{\text{Hi team, welcome aboard!}}$<br/>
+<br/>
+<br/>
 $\color{green}{\text{In this repository, you will find data and python codes for our ML project.}}$<br/>
 $\color{green}{\text{You can also upload your own if you'd like.}}$<br/>
 
@@ -28,7 +30,7 @@ Example Python codes:<br/>
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 
 ## Understanding the data in 'Culvert Max Records Full Dataset 082522.csv'
-This dataset is 100% raw, meaning the only process it went through was joining the data from different sources. Only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. No corrections were done, so there are some negative values.
+This dataset is 100% raw, meaning the only process it went through was joining the data from different sources. Only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. No corrections were made, so there are some apparently inaccurate values.
 
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
 This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications.
@@ -39,6 +41,3 @@ You do not have to purchase a subscription to enroll in any of the courses. Ther
 Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. <br/>
 
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./corsara.png?raw=true" />
-
-
-
