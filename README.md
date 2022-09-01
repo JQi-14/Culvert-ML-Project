@@ -3,7 +3,7 @@
 $\color{green}{\text{Hi team, welcome aboard!}}$<br/>
 <br/>
 <br/>
-$\color{green}{\text{In this repository, you will find data and python codes for our ML project.}}$<br/>
+$\color{green}{\text{In this repository, you will find data and maybe python codes for our ML project.}}$<br/>
 $\color{green}{\text{You can also upload your own if you'd like.}}$<br/>
 
 
