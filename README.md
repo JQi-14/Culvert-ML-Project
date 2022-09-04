@@ -43,3 +43,4 @@ You do not have to purchase a subscription to enroll in any of the courses. Ther
 Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. <br/>
 
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./corsara.png?raw=true" />
+Someone made some superb notes for his courses (mainly on NN) avalable in their repository. Check it out --> https://github.com/ashishpatel26/Andrew-NG-Notes
