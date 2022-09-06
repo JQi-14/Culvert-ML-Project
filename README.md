@@ -32,7 +32,7 @@ Example Python codes:<br/>
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 
 ## Understanding the data in 'Culvert Max Records Full Dataset 082522.csv'
-This dataset is 100% raw, meaning the only process it went through was joining the data from different sources. Only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. No corrections were made, so there are some apparently inaccurate values.
+This dataset is 100% raw, meaning the only process it went through was joining the data from different sources. Only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. No corrections were made, so there are some apparently inaccurate values. The detailed data joining processes are provided in </b>"2_Raw_Data\Notes and Summaries\Data joining - keep max records (1265).docx"</b>
 
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
 This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications.
