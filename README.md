@@ -5,18 +5,19 @@ $\color{green}{\text{Hi team, welcome aboard!}}$<br/>
 <br/>
 $\color{green}{\text{In this repository, you will find data and maybe python codes for our ML project.}}$<br/>
 $\color{green}{\text{You can also upload your own if you'd like.}}$<br/>
+If you have any questions, contact Jenny (jqi1@uncc.edu).
 
 
 ***
 
 ## How to use it
-To load the data here on Jupyter, use the **raw** form of the data as shown in the figure below.<br/>
+To load the data here onto your Jupyter notebook, use the **raw** form of the data as shown in the figure below.<br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
 Example Python codes:<br/>
 <code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
 
 ## Understanding the data in '686_full_data_raw_06_28_22.csv' (see below for the newer versions of the dataset)
-1. Total sample size is 686 currently<br/>
+1. Total sample size is 686<br/>
 2. Column A gives the identifiers of all records and does not contribute to the prediction result. <br/>
 3. Columns D and G are nominal type data; column H is ordinal type data.<br/>
 4. Columns M, P, Q, and R are calculated based on variables listed on the left of it, meaning you do not have to use this column.<br/>
@@ -35,7 +36,7 @@ Feel free to try out any of them as possible output variables. Note that Columns
 This dataset is 100% raw, meaning the only process it went through was joining the data from different sources. Only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. No corrections were made, so there are some apparently inaccurate values. The detailed data joining processes are provided in </b>"2_Raw_Data\Notes and Summaries\Data joining - keep max records (1265).docx"</b>
 
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
-This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications.
+This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications. Because it is minimally processed, the correlations between input variables and the target variable is very low (i.e., the performances of your models may be undesirable even after parameter tunning). It *might* mean that data engineering is necessary. 
 
 ## Access to Dr. Andrew Ng's ML courses
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
