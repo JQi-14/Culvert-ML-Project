@@ -1,5 +1,5 @@
 # Machine Learning for Culvert Condition Prediction Project
-$\color{black}{\text{PI: Dr. Nicole Barclay & Dr. Michael Smith}}$<br/>
+$\color{black}{\text{PI: Dr. Nicole Barclay and Dr. Michael Smith}}$<br/>
 
 $\color{green}{\text{Hi team, welcome aboard!}}$<br/>
 <br/>
