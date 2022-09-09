@@ -1,5 +1,5 @@
 # Machine Learning for Culvert Condition Prediction Project
-PI: Dr. Nicole Barclay & Dr. Michael Smith
+$\color{black}{\text{PI: Dr. Nicole Barclay & Dr. Michael Smith}}$<br/>
 
 $\color{green}{\text{Hi team, welcome aboard!}}$<br/>
 <br/>
@@ -27,7 +27,7 @@ Example Python codes:<br/>
          b. Flood Risk = Flood LOF * Flood COF  - (flood)<br/>
          c. CON Risk = CON LOF * CON COF  - (condition)<br/>
          d. (overall) LOF and COF are determined based on flood and condition LOF and COF, the calculation method by CMSWS is detailed in 2_Raw_Data\Output Data – CMSWS<br/>
-See the calculation flow chart below for details
+See the calculation flow chart below for details.<br/>
 Feel free to try out any of them as possible output variables. Note that Columns N and O are duplicated in Columns U and Z<br/>
 6. Columns I and J are somewhat related: Column I is the evaluation of how much clogging is observed, and Column J evaluates if it has caused floods due to the clogging (binary results). <br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./Calculations%20Flow%20Chart.jpg?raw=true" />
