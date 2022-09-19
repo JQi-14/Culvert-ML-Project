@@ -36,6 +36,15 @@ This dataset is 100% raw, meaning the only process it went through was joining t
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
 This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications. Because it is minimally processed, the correlations between input variables and the target variable are very low (i.e., the performances of your models may be undesirable even after parameter tunning). It *might* mean that data engineering is necessary. <br/>
 
+## Awesome book to read
+Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. - Can be requested through interlibrary loan!
+
+## Relevant courses offered by our university
+Dr. Kexin Zhao (concepts only because she mostly uses R)
+
+## Adjusting weights of classes in an unbalanced dataset for NN
+<code>model.fit(X_train, y_train, epochs=40, class_weight=class weight)</code>
+
 ## Access to Dr. Andrew Ng's ML courses
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
