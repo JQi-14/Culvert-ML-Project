@@ -37,7 +37,7 @@ This dataset is 100% raw, meaning the only process it went through was joining t
 This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications. Because it is minimally processed, the correlations between input variables and the target variable are very low (i.e., the performances of your models may be undesirable even after parameter tunning). It *might* mean that data engineering is necessary. <br/>
 
 ## Awesome book to have
-Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. - Can be requested through interlibrary loan!
+Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> Can be requested through interlibrary loan!
 
 ## Relevant courses offered by our university
 Dr. Kexin Zhao (for learning concepts only, because she only uses R)
