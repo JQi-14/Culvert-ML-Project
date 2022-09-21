@@ -48,7 +48,7 @@ https://www.kaggle.com/learn
 ## Awesome book to have
 Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> **Can be requested through interlibrary loan!**
 
-## Access to Dr. Andrew Ng's ML courses (mostly theoritical stuff, less hands-on) 
+## Access to Dr. Andrew Ng's ML courses (mostly theoritical stuff that coder don't use in real world) 
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
 Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. See the screenshot below.<br/>
