@@ -36,13 +36,22 @@ This dataset is 100% raw, meaning the only process it went through was joining t
 ## Understanding the data in 'Max Records Full Dataset minorly corrected.csv'
 This dataset has a minor degree of QA filters for missing data or incorrect data comparing to the one mentioned directly above. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications. Because it is minimally processed, the correlations between input variables and the target variable are very low (i.e., the performances of your models may be undesirable even after parameter tunning). It *might* mean that data engineering is necessary. <br/>
 
+## Best place to learn (practical) ML and more
+https://www.kaggle.com/learn 
+* Intro to ML
+* Intermediate ML
+* Intro to Deep Learning
+* Time Series
+* ML Explainability 
+* THIS ONE --> https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python#5.-Getting-hard-core 
+
 ## Awesome book to have
-Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> Can be requested through interlibrary loan!
+Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> **Can be requested through interlibrary loan!**
 
 ## Relevant courses offered by our university
 Dr. Kexin Zhao (for learning concepts only, because she only uses R)
 
-## Access to Dr. Andrew Ng's ML courses
+## Access to Dr. Andrew Ng's ML courses (mostly theoritical stuff, less hands-on) 
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
 Go to each individual course’s sub-page (i.e. 'Supervised Machine Learning: Regression and Classification'; 'Advanced Learning Algorithms'; and 'Unsupervised Learning, Recommenders, Reinforcement Learning') and click ‘enroll for free’. Choose ‘audit the course’ at the bottom of the pop-up dialog. See the screenshot below.<br/>
