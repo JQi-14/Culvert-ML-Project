@@ -42,9 +42,6 @@ Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and Te
 ## Relevant courses offered by our university
 Dr. Kexin Zhao (for learning concepts only, because she only uses R)
 
-## Adjusting weights of classes in an unbalanced dataset for NN
-<code>model.fit(X_train, y_train, epochs=40, class_weight=class weight)</code>
-
 ## Access to Dr. Andrew Ng's ML courses
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
