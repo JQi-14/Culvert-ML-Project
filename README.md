@@ -46,7 +46,7 @@ https://www.kaggle.com/learn
 * THIS ONE --> https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python#5.-Getting-hard-core 
 
 ## Awesome book to have
-Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> **Can be requested through interlibrary loan!**
+Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. 
 
 ## Access to Dr. Andrew Ng's ML courses (mostly theoretical stuff) 
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
