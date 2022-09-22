@@ -11,7 +11,7 @@ If you have any questions, contact Jenny (jqi1@uncc.edu).
 ***
 
 ## How to use it
-To load the data here onto your Jupyter notebook, use the **raw** form of the data as shown in the figure below.<br/>
+To load the data here onto your Jupyter notebook, use the **raw** dataset URL shown in the figure below.<br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
 Example Python codes:<br/>
 <code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
