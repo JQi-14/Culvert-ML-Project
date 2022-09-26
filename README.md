@@ -11,7 +11,7 @@ If you have any questions, contact Jenny (jqi1@uncc.edu).
 ***
 
 ## How to use it
-To load the data here onto your Jupyter notebook, use the **raw** dataset URL shown in the figure below.<br/>
+To load the data here onto your Jupyter notebook, use the **raw** dataset URL by clicking the button shown in the figure below.<br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
 Example Python codes:<br/>
 <code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
@@ -43,7 +43,7 @@ https://www.kaggle.com/learn
 * Intro to Deep Learning
 * Time Series
 * ML Explainability 
-* THIS ONE --> https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python#5.-Getting-hard-core 
+* THIS ONE --> https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
 
 ## Awesome textbook to have
 Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> The library has it, but just one copy reserved as textbook.
