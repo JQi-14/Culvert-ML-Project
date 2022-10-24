@@ -48,6 +48,9 @@ https://www.kaggle.com/learn
 ## Awesome textbook to have
 Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> The library has it, but just one copy reserved as textbook.
 
+## Other Free Resources through libraries
+https://github.com/asabenhur/CS345
+
 ## Access to Dr. Andrew Ng's ML courses (mostly theoretical stuff) 
 https://www.coursera.org/specializations/machine-learning-introduction <br/>
 You do not have to purchase a subscription to enroll in any of the courses. There are three courses listed on this webpage. 
