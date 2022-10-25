@@ -13,8 +13,11 @@ If you have any questions, contact Jenny (jqi1@uncc.edu).
 ## How to use it
 To load the data here onto your Jupyter notebook, use the **raw** dataset URL by clicking the button shown in the figure below.<br/>
 <img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
+If you want to download any files, right click and choose 'save as'
+<img src='https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./file%20download.png?raw=true'>
 Example Python codes:<br/>
 <code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
+
 
 ## Understanding the data in '686_full_data_raw_06_28_22.csv' (see below for the newer versions of the dataset)
 1. Total sample size is 686<br/>
@@ -48,7 +51,7 @@ https://www.kaggle.com/learn
 ## Awesome textbook to have
 Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems*. Second edition., O’Reilly Media, Inc., 2019. <br/> The library has it, but just one copy reserved as textbook.
 
-## Other Free Resources/ Open Courses
+## Other Free Resources/Open Courses
 https://github.com/asabenhur/CS345
 
 ## Access to Dr. Andrew Ng's ML courses (mostly theoretical stuff) 
