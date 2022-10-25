@@ -12,9 +12,9 @@ If you have any questions, contact Jenny (jqi1@uncc.edu).
 
 ## How to use it
 To load the data here onto your Jupyter notebook, use the **raw** dataset URL by clicking the button shown in the figure below.<br/>
-<img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" />
-If you want to download any files, right click and choose 'save as'
-<img src='https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./file%20download.png?raw=true'>
+<img src="https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./note.png?raw=true" /><br/>
+If you want to download any files, right click and choose 'save as'<br/>
+<img src='https://github.com/JQi-14/Culvert-ML-Project/blob/main/Misc./file%20download.png?raw=true'><br/>
 Example Python codes:<br/>
 <code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/686_full_data_raw_03_21_22.csv')</code><br/>
 
