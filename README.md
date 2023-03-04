@@ -1,10 +1,10 @@
 # Machine Learning for Culvert Condition Prediction Project
-<font color=black>PI: Dr. Nicole Barclay and Dr. Michael Smith}}$<br/>
+<font color=black size='4'>PI: Dr. Nicole Barclay and Dr. Michael Smith</font><br/>
 <br/>
-$\color{green}{\text{Hi team, welcome aboard!}}$<br/>
+<font color=green size='4'>Hi team, welcome aboard!</font><br/>
 <br/>
-$\color{green}{\text{In this repository, you will find data and maybe python codes for our ML project.}}$<br/>
-$\color{green}{\text{You can also upload your own if you'd like.}}$<br/>
+<font color=green size='4'>In this repository, you will find data and maybe python codes for our ML project.</font><br/>
+<font color=green size='4'>You can also upload your own if you'd like.</font><br/>
 If you have any questions, contact Jenny (jqi1@uncc.edu).
 
 
