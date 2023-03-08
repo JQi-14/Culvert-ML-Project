@@ -13,7 +13,7 @@ If you have any questions, contact Jenny (jqi1@uncc.edu).
 To load the data here onto your Jupyter notebook, use the **raw** dataset URL by clicking the button. 
 If you want to download any files, right click and choose 'save as'<br/>
 Example Python codes:<br/>
-<code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/dataset.csv')</code><br/>
+<code>data=pandas.read_csv('https://raw.githubusercontent.com/JQi-14/Culvert-ML-Project/main/cleanData.csv')</code><br/>
 
 
 ## Understanding the dataset
