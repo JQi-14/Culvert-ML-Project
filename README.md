@@ -5,7 +5,6 @@
 If you have any questions, contact Jenny (jqi1@uncc.edu).
 
 
-***
 
 ## How to use it
 To load the data here onto your Jupyter notebook, use the **raw** dataset URL by clicking the button. 
