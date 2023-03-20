@@ -1,4 +1,4 @@
-# Machine Learning for Culvert Condition Prediction Project
+# ML for Culvert Condition Prediction Project
 <font color=black size='4'>PI: Dr. Nicole Barclay and Dr. Michael Smith</font><br/>
 <br/>
 <font color=green size='4'>In this repository, you will find data and python codes for our ML project.</font><br/>
