@@ -17,3 +17,5 @@ Example Python codes:<br/>
 ## Understanding the dataset
 This dataset is raw, the process it went through was joining the data from different sources in ArcGIS and the only calculation was for 'age at inspection date' using the difference between 'construction date' and 'inspection date'. The detailed data joining processes are provided in **"2_Raw_Data\Notes and Summaries\Data joining - keep max records (1265).docx"**.This dataset has a minor degree of QA filters for missing data or incorrect data. Check the 'metadata' tab in the excel file with the same name for detailed explanations/justifications. <br/>
 
+## Nature of the developed models
+Predictive ML for tabular data - Supervised batch-learn
