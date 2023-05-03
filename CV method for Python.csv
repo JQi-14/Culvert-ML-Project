@@ -1,0 +1,433 @@
+﻿,Algorithm,Model,Dataset,AUC Score,Weighted F1 Score,K Kold,Repeatition,Scenario,CV Method
+1,LR,Full Data Optimized,Training,0.831919,0.646665,3,2,SMOTE on ALL,K3R2
+2,LR,Full Data Optimized,Test,0.839603,0.667507,3,2,SMOTE on ALL,K3R2
+3,RFC,Full Data Optimized,Training,0.99988,0.987946,3,2,SMOTE on ALL,K3R2
+4,RFC,Full Data Optimized,Test,0.978762,0.904843,3,2,SMOTE on ALL,K3R2
+5,SVC,Full Data Optimized,Training,0.999588,0.992832,3,2,SMOTE on ALL,K3R2
+6,SVC,Full Data Optimized,Test,0.980044,0.912236,3,2,SMOTE on ALL,K3R2
+7,DT,Full Data Optimized,Training,0.996467,0.949951,3,2,SMOTE on ALL,K3R2
+8,DT,Full Data Optimized,Test,0.894355,0.824061,3,2,SMOTE on ALL,K3R2
+9,LR,Trimmed Data Optimized,Training,0.750677,0.7183,3,2,SMOTE on ALL,K3R2
+10,LR,Trimmed Data Optimized,Test,0.69483,0.71531,3,2,SMOTE on ALL,K3R2
+11,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,3,2,SMOTE on ALL,K3R2
+12,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,3,2,SMOTE on ALL,K3R2
+13,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,3,2,SMOTE on ALL,K3R2
+14,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,3,2,SMOTE on ALL,K3R2
+15,DT,Trimmed Data Optimized,Training,0.95776,0.837494,3,2,SMOTE on ALL,K3R2
+16,DT,Trimmed Data Optimized,Test,0.664929,0.665141,3,2,SMOTE on ALL,K3R2
+17,LR,Full Data Optimized,Training,0.830737,0.648726,3,3,SMOTE on ALL,K3R3
+18,LR,Full Data Optimized,Test,0.838408,0.662361,3,3,SMOTE on ALL,K3R3
+19,RFC,Full Data Optimized,Training,0.99988,0.987946,3,3,SMOTE on ALL,K3R3
+20,RFC,Full Data Optimized,Test,0.978762,0.904843,3,3,SMOTE on ALL,K3R3
+21,SVC,Full Data Optimized,Training,0.999588,0.992832,3,3,SMOTE on ALL,K3R3
+22,SVC,Full Data Optimized,Test,0.980044,0.912236,3,3,SMOTE on ALL,K3R3
+23,DT,Full Data Optimized,Training,0.996467,0.949951,3,3,SMOTE on ALL,K3R3
+24,DT,Full Data Optimized,Test,0.894355,0.824061,3,3,SMOTE on ALL,K3R3
+25,LR,Trimmed Data Optimized,Training,0.750677,0.7183,3,3,SMOTE on ALL,K3R3
+26,LR,Trimmed Data Optimized,Test,0.69483,0.71531,3,3,SMOTE on ALL,K3R3
+27,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,3,3,SMOTE on ALL,K3R3
+28,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,3,3,SMOTE on ALL,K3R3
+29,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,3,3,SMOTE on ALL,K3R3
+30,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,3,3,SMOTE on ALL,K3R3
+31,DT,Trimmed Data Optimized,Training,0.95776,0.837494,3,3,SMOTE on ALL,K3R3
+32,DT,Trimmed Data Optimized,Test,0.664929,0.665141,3,3,SMOTE on ALL,K3R3
+33,LR,Full Data Optimized,Training,0.831903,0.647613,3,4,SMOTE on ALL,K3R4
+34,LR,Full Data Optimized,Test,0.839325,0.665887,3,4,SMOTE on ALL,K3R4
+35,RFC,Full Data Optimized,Training,0.99988,0.987946,3,4,SMOTE on ALL,K3R4
+36,RFC,Full Data Optimized,Test,0.978762,0.904843,3,4,SMOTE on ALL,K3R4
+37,SVC,Full Data Optimized,Training,0.999588,0.992832,3,4,SMOTE on ALL,K3R4
+38,SVC,Full Data Optimized,Test,0.980044,0.912236,3,4,SMOTE on ALL,K3R4
+39,DT,Full Data Optimized,Training,0.996467,0.949951,3,4,SMOTE on ALL,K3R4
+40,DT,Full Data Optimized,Test,0.894355,0.824061,3,4,SMOTE on ALL,K3R4
+41,LR,Trimmed Data Optimized,Training,0.750677,0.7183,3,4,SMOTE on ALL,K3R4
+42,LR,Trimmed Data Optimized,Test,0.69483,0.71531,3,4,SMOTE on ALL,K3R4
+43,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,3,4,SMOTE on ALL,K3R4
+44,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,3,4,SMOTE on ALL,K3R4
+45,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,3,4,SMOTE on ALL,K3R4
+46,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,3,4,SMOTE on ALL,K3R4
+47,DT,Trimmed Data Optimized,Training,0.966047,0.857984,3,4,SMOTE on ALL,K3R4
+48,DT,Trimmed Data Optimized,Test,0.619645,0.66561,3,4,SMOTE on ALL,K3R4
+49,LR,Full Data Optimized,Training,0.830737,0.648726,4,2,SMOTE on ALL,K4R2
+50,LR,Full Data Optimized,Test,0.838408,0.662361,4,2,SMOTE on ALL,K4R2
+51,RFC,Full Data Optimized,Training,0.99988,0.987946,4,2,SMOTE on ALL,K4R2
+52,RFC,Full Data Optimized,Test,0.978762,0.904843,4,2,SMOTE on ALL,K4R2
+53,SVC,Full Data Optimized,Training,0.999588,0.992832,4,2,SMOTE on ALL,K4R2
+54,SVC,Full Data Optimized,Test,0.980044,0.912236,4,2,SMOTE on ALL,K4R2
+55,DT,Full Data Optimized,Training,0.98157,0.901287,4,2,SMOTE on ALL,K4R2
+56,DT,Full Data Optimized,Test,0.915371,0.825589,4,2,SMOTE on ALL,K4R2
+57,LR,Trimmed Data Optimized,Training,0.75223,0.722792,4,2,SMOTE on ALL,K4R2
+58,LR,Trimmed Data Optimized,Test,0.69607,0.722458,4,2,SMOTE on ALL,K4R2
+59,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,4,2,SMOTE on ALL,K4R2
+60,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,4,2,SMOTE on ALL,K4R2
+61,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,4,2,SMOTE on ALL,K4R2
+62,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,4,2,SMOTE on ALL,K4R2
+63,DT,Trimmed Data Optimized,Training,0.972042,0.866562,4,2,SMOTE on ALL,K4R2
+64,DT,Trimmed Data Optimized,Test,0.723279,0.702702,4,2,SMOTE on ALL,K4R2
+65,LR,Full Data Optimized,Training,0.830737,0.648726,4,3,SMOTE on ALL,K4R3
+66,LR,Full Data Optimized,Test,0.838408,0.662361,4,3,SMOTE on ALL,K4R3
+67,RFC,Full Data Optimized,Training,0.99988,0.987946,4,3,SMOTE on ALL,K4R3
+68,RFC,Full Data Optimized,Test,0.978762,0.904843,4,3,SMOTE on ALL,K4R3
+69,SVC,Full Data Optimized,Training,0.999588,0.992832,4,3,SMOTE on ALL,K4R3
+70,SVC,Full Data Optimized,Test,0.980044,0.912236,4,3,SMOTE on ALL,K4R3
+71,DT,Full Data Optimized,Training,0.996467,0.949951,4,3,SMOTE on ALL,K4R3
+72,DT,Full Data Optimized,Test,0.894355,0.824061,4,3,SMOTE on ALL,K4R3
+73,LR,Trimmed Data Optimized,Training,0.75223,0.722792,4,3,SMOTE on ALL,K4R3
+74,LR,Trimmed Data Optimized,Test,0.69607,0.722458,4,3,SMOTE on ALL,K4R3
+75,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,4,3,SMOTE on ALL,K4R3
+76,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,4,3,SMOTE on ALL,K4R3
+77,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,4,3,SMOTE on ALL,K4R3
+78,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,4,3,SMOTE on ALL,K4R3
+79,DT,Trimmed Data Optimized,Training,0.972042,0.866562,4,3,SMOTE on ALL,K4R3
+80,DT,Trimmed Data Optimized,Test,0.723279,0.702702,4,3,SMOTE on ALL,K4R3
+81,LR,Full Data Optimized,Training,0.830737,0.648726,4,4,SMOTE on ALL,K4R4
+82,LR,Full Data Optimized,Test,0.838408,0.662361,4,4,SMOTE on ALL,K4R4
+83,RFC,Full Data Optimized,Training,0.99988,0.987946,4,4,SMOTE on ALL,K4R4
+84,RFC,Full Data Optimized,Test,0.978762,0.904843,4,4,SMOTE on ALL,K4R4
+85,SVC,Full Data Optimized,Training,0.999588,0.992832,4,4,SMOTE on ALL,K4R4
+86,SVC,Full Data Optimized,Test,0.980044,0.912236,4,4,SMOTE on ALL,K4R4
+87,DT,Full Data Optimized,Training,0.996467,0.949951,4,4,SMOTE on ALL,K4R4
+88,DT,Full Data Optimized,Test,0.894355,0.824061,4,4,SMOTE on ALL,K4R4
+89,LR,Trimmed Data Optimized,Training,0.75223,0.722792,4,4,SMOTE on ALL,K4R4
+90,LR,Trimmed Data Optimized,Test,0.69607,0.722458,4,4,SMOTE on ALL,K4R4
+91,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,4,4,SMOTE on ALL,K4R4
+92,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,4,4,SMOTE on ALL,K4R4
+93,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,4,4,SMOTE on ALL,K4R4
+94,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,4,4,SMOTE on ALL,K4R4
+95,DT,Trimmed Data Optimized,Training,0.972042,0.866562,4,4,SMOTE on ALL,K4R4
+96,DT,Trimmed Data Optimized,Test,0.723279,0.702702,4,4,SMOTE on ALL,K4R4
+97,LR,Full Data Optimized,Training,0.831903,0.647613,5,2,SMOTE on ALL,K5R2
+98,LR,Full Data Optimized,Test,0.839325,0.665887,5,2,SMOTE on ALL,K5R2
+99,RFC,Full Data Optimized,Training,0.99988,0.987946,5,2,SMOTE on ALL,K5R2
+100,RFC,Full Data Optimized,Test,0.978762,0.904843,5,2,SMOTE on ALL,K5R2
+101,SVC,Full Data Optimized,Training,0.999588,0.992832,5,2,SMOTE on ALL,K5R2
+102,SVC,Full Data Optimized,Test,0.980044,0.912236,5,2,SMOTE on ALL,K5R2
+103,DT,Full Data Optimized,Training,0.996467,0.949951,5,2,SMOTE on ALL,K5R2
+104,DT,Full Data Optimized,Test,0.894355,0.824061,5,2,SMOTE on ALL,K5R2
+105,LR,Trimmed Data Optimized,Training,0.750677,0.7183,5,2,SMOTE on ALL,K5R2
+106,LR,Trimmed Data Optimized,Test,0.69483,0.71531,5,2,SMOTE on ALL,K5R2
+107,RFC,Trimmed Data Optimized,Training,0.997056,0.90143,5,2,SMOTE on ALL,K5R2
+108,RFC,Trimmed Data Optimized,Test,0.763096,0.800163,5,2,SMOTE on ALL,K5R2
+109,SVC,Trimmed Data Optimized,Training,0.997594,0.995813,5,2,SMOTE on ALL,K5R2
+110,SVC,Trimmed Data Optimized,Test,0.620926,0.751245,5,2,SMOTE on ALL,K5R2
+111,DT,Trimmed Data Optimized,Training,0.983401,0.914411,5,2,SMOTE on ALL,K5R2
+112,DT,Trimmed Data Optimized,Test,0.704899,0.750571,5,2,SMOTE on ALL,K5R2
+113,LR,Full Data Optimized,Training,0.830737,0.648726,5,3,SMOTE on ALL,K5R3
+114,LR,Full Data Optimized,Test,0.838408,0.662361,5,3,SMOTE on ALL,K5R3
+115,RFC,Full Data Optimized,Training,0.99988,0.987946,5,3,SMOTE on ALL,K5R3
+116,RFC,Full Data Optimized,Test,0.978762,0.904843,5,3,SMOTE on ALL,K5R3
+117,SVC,Full Data Optimized,Training,0.999588,0.992832,5,3,SMOTE on ALL,K5R3
+118,SVC,Full Data Optimized,Test,0.980044,0.912236,5,3,SMOTE on ALL,K5R3
+119,DT,Full Data Optimized,Training,0.996467,0.949951,5,3,SMOTE on ALL,K5R3
+120,DT,Full Data Optimized,Test,0.894355,0.824061,5,3,SMOTE on ALL,K5R3
+121,LR,Trimmed Data Optimized,Training,0.742204,0.716434,5,3,SMOTE on ALL,K5R3
+122,LR,Trimmed Data Optimized,Test,0.695975,0.711638,5,3,SMOTE on ALL,K5R3
+123,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,5,3,SMOTE on ALL,K5R3
+124,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,5,3,SMOTE on ALL,K5R3
+125,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,5,3,SMOTE on ALL,K5R3
+126,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,5,3,SMOTE on ALL,K5R3
+127,DT,Trimmed Data Optimized,Training,0.972042,0.866562,5,3,SMOTE on ALL,K5R3
+128,DT,Trimmed Data Optimized,Test,0.723279,0.702702,5,3,SMOTE on ALL,K5R3
+129,LR,Full Data Optimized,Training,0.830737,0.648726,5,4,SMOTE on ALL,K5R4
+130,LR,Full Data Optimized,Test,0.838408,0.662361,5,4,SMOTE on ALL,K5R4
+131,RFC,Full Data Optimized,Training,0.99988,0.987946,5,4,SMOTE on ALL,K5R4
+132,RFC,Full Data Optimized,Test,0.978762,0.904843,5,4,SMOTE on ALL,K5R4
+133,SVC,Full Data Optimized,Training,0.999588,0.992832,5,4,SMOTE on ALL,K5R4
+134,SVC,Full Data Optimized,Test,0.980044,0.912236,5,4,SMOTE on ALL,K5R4
+135,DT,Full Data Optimized,Training,0.996467,0.949951,5,4,SMOTE on ALL,K5R4
+136,DT,Full Data Optimized,Test,0.894355,0.824061,5,4,SMOTE on ALL,K5R4
+137,LR,Trimmed Data Optimized,Training,0.742204,0.716434,5,4,SMOTE on ALL,K5R4
+138,LR,Trimmed Data Optimized,Test,0.695975,0.711638,5,4,SMOTE on ALL,K5R4
+139,RFC,Trimmed Data Optimized,Training,0.993909,0.911734,5,4,SMOTE on ALL,K5R4
+140,RFC,Trimmed Data Optimized,Test,0.773375,0.800055,5,4,SMOTE on ALL,K5R4
+141,SVC,Trimmed Data Optimized,Training,0.998907,0.995813,5,4,SMOTE on ALL,K5R4
+142,SVC,Trimmed Data Optimized,Test,0.622397,0.751245,5,4,SMOTE on ALL,K5R4
+143,DT,Trimmed Data Optimized,Training,0.95776,0.837494,5,4,SMOTE on ALL,K5R4
+144,DT,Trimmed Data Optimized,Test,0.664929,0.665141,5,4,SMOTE on ALL,K5R4
+145,LR,Full Data Optimized,Training,0.74621,0.736656,3,2,No SMOTE,K3R2
+146,LR,Full Data Optimized,Test,0.689368,0.682535,3,2,No SMOTE,K3R2
+147,RFC,Full Data Optimized,Training,0.997843,0.971831,3,2,No SMOTE,K3R2
+148,RFC,Full Data Optimized,Test,0.811942,0.7666,3,2,No SMOTE,K3R2
+149,SVC,Full Data Optimized,Training,0.999279,0.997954,3,2,No SMOTE,K3R2
+150,SVC,Full Data Optimized,Test,0.71351,0.738982,3,2,No SMOTE,K3R2
+151,DT,Full Data Optimized,Training,0.992971,0.929691,3,2,No SMOTE,K3R2
+152,DT,Full Data Optimized,Test,0.691611,0.691399,3,2,No SMOTE,K3R2
+153,LR,Trimmed Data Optimized,Training,0.750666,0.7183,3,2,No SMOTE,K3R2
+154,LR,Trimmed Data Optimized,Test,0.69483,0.71531,3,2,No SMOTE,K3R2
+155,RFC,Trimmed Data Optimized,Training,0.9972,0.941866,3,2,No SMOTE,K3R2
+156,RFC,Trimmed Data Optimized,Test,0.772433,0.796841,3,2,No SMOTE,K3R2
+157,SVC,Trimmed Data Optimized,Training,0.998753,0.990633,3,2,No SMOTE,K3R2
+158,SVC,Trimmed Data Optimized,Test,0.705858,0.737042,3,2,No SMOTE,K3R2
+159,DT,Trimmed Data Optimized,Training,0.99759,0.963262,3,2,No SMOTE,K3R2
+160,DT,Trimmed Data Optimized,Test,0.673676,0.716045,3,2,No SMOTE,K3R2
+161,LR,Full Data Optimized,Training,0.74621,0.736656,3,3,No SMOTE,K3R3
+162,LR,Full Data Optimized,Test,0.689368,0.682535,3,3,No SMOTE,K3R3
+163,RFC,Full Data Optimized,Training,0.970451,0.936357,3,3,No SMOTE,K3R3
+164,RFC,Full Data Optimized,Test,0.79496,0.758705,3,3,No SMOTE,K3R3
+165,SVC,Full Data Optimized,Training,0.999279,0.997954,3,3,No SMOTE,K3R3
+166,SVC,Full Data Optimized,Test,0.71351,0.738982,3,3,No SMOTE,K3R3
+167,DT,Full Data Optimized,Training,1,1,3,3,No SMOTE,K3R3
+168,DT,Full Data Optimized,Test,0.616374,0.712149,3,3,No SMOTE,K3R3
+169,LR,Trimmed Data Optimized,Training,0.750666,0.7183,3,3,No SMOTE,K3R3
+170,LR,Trimmed Data Optimized,Test,0.69483,0.71531,3,3,No SMOTE,K3R3
+171,RFC,Trimmed Data Optimized,Training,0.9972,0.941866,3,3,No SMOTE,K3R3
+172,RFC,Trimmed Data Optimized,Test,0.772433,0.796841,3,3,No SMOTE,K3R3
+173,SVC,Trimmed Data Optimized,Training,0.998753,0.990633,3,3,No SMOTE,K3R3
+174,SVC,Trimmed Data Optimized,Test,0.705858,0.737042,3,3,No SMOTE,K3R3
+175,DT,Trimmed Data Optimized,Training,0.990713,0.930936,3,3,No SMOTE,K3R3
+176,DT,Trimmed Data Optimized,Test,0.6587,0.733016,3,3,No SMOTE,K3R3
+177,LR,Full Data Optimized,Training,0.74621,0.736656,3,4,No SMOTE,K3R4
+178,LR,Full Data Optimized,Test,0.689368,0.682535,3,4,No SMOTE,K3R4
+179,RFC,Full Data Optimized,Training,0.970451,0.936357,3,4,No SMOTE,K3R4
+180,RFC,Full Data Optimized,Test,0.79496,0.758705,3,4,No SMOTE,K3R4
+181,SVC,Full Data Optimized,Training,0.999279,0.997954,3,4,No SMOTE,K3R4
+182,SVC,Full Data Optimized,Test,0.71351,0.738982,3,4,No SMOTE,K3R4
+183,DT,Full Data Optimized,Training,1,1,3,4,No SMOTE,K3R4
+184,DT,Full Data Optimized,Test,0.616374,0.712149,3,4,No SMOTE,K3R4
+185,LR,Trimmed Data Optimized,Training,0.750666,0.7183,3,4,No SMOTE,K3R4
+186,LR,Trimmed Data Optimized,Test,0.69483,0.71531,3,4,No SMOTE,K3R4
+187,RFC,Trimmed Data Optimized,Training,0.9972,0.941866,3,4,No SMOTE,K3R4
+188,RFC,Trimmed Data Optimized,Test,0.772433,0.796841,3,4,No SMOTE,K3R4
+189,SVC,Trimmed Data Optimized,Training,0.998753,0.990633,3,4,No SMOTE,K3R4
+190,SVC,Trimmed Data Optimized,Test,0.705858,0.737042,3,4,No SMOTE,K3R4
+191,DT,Trimmed Data Optimized,Training,0.99759,0.963262,3,4,No SMOTE,K3R4
+192,DT,Trimmed Data Optimized,Test,0.673676,0.716045,3,4,No SMOTE,K3R4
+193,LR,Full Data Optimized,Training,0.74621,0.736656,4,2,No SMOTE,K4R2
+194,LR,Full Data Optimized,Test,0.689368,0.682535,4,2,No SMOTE,K4R2
+195,RFC,Full Data Optimized,Training,0.970451,0.936357,4,2,No SMOTE,K4R2
+196,RFC,Full Data Optimized,Test,0.79496,0.758705,4,2,No SMOTE,K4R2
+197,SVC,Full Data Optimized,Training,0.999279,0.997954,4,2,No SMOTE,K4R2
+198,SVC,Full Data Optimized,Test,0.71351,0.738982,4,2,No SMOTE,K4R2
+199,DT,Full Data Optimized,Training,1,1,4,2,No SMOTE,K4R2
+200,DT,Full Data Optimized,Test,0.616374,0.712149,4,2,No SMOTE,K4R2
+201,LR,Trimmed Data Optimized,Training,0.75223,0.722792,4,2,No SMOTE,K4R2
+202,LR,Trimmed Data Optimized,Test,0.69607,0.722458,4,2,No SMOTE,K4R2
+203,RFC,Trimmed Data Optimized,Training,0.99151,0.883348,4,2,No SMOTE,K4R2
+204,RFC,Trimmed Data Optimized,Test,0.766438,0.804992,4,2,No SMOTE,K4R2
+205,SVC,Trimmed Data Optimized,Training,0.99818,0.994772,4,2,No SMOTE,K4R2
+206,SVC,Trimmed Data Optimized,Test,0.704632,0.737042,4,2,No SMOTE,K4R2
+207,DT,Trimmed Data Optimized,Training,0.990964,0.92896,4,2,No SMOTE,K4R2
+208,DT,Trimmed Data Optimized,Test,0.719116,0.731603,4,2,No SMOTE,K4R2
+209,LR,Full Data Optimized,Training,0.74621,0.736656,4,3,No SMOTE,K4R3
+210,LR,Full Data Optimized,Test,0.689368,0.682535,4,3,No SMOTE,K4R3
+211,RFC,Full Data Optimized,Training,0.970451,0.936357,4,3,No SMOTE,K4R3
+212,RFC,Full Data Optimized,Test,0.79496,0.758705,4,3,No SMOTE,K4R3
+213,SVC,Full Data Optimized,Training,0.999279,0.997954,4,3,No SMOTE,K4R3
+214,SVC,Full Data Optimized,Test,0.71351,0.738982,4,3,No SMOTE,K4R3
+215,DT,Full Data Optimized,Training,1,1,4,3,No SMOTE,K4R3
+216,DT,Full Data Optimized,Test,0.616374,0.712149,4,3,No SMOTE,K4R3
+217,LR,Trimmed Data Optimized,Training,0.75223,0.722792,4,3,No SMOTE,K4R3
+218,LR,Trimmed Data Optimized,Test,0.69607,0.722458,4,3,No SMOTE,K4R3
+219,RFC,Trimmed Data Optimized,Training,0.99151,0.883348,4,3,No SMOTE,K4R3
+220,RFC,Trimmed Data Optimized,Test,0.766438,0.804992,4,3,No SMOTE,K4R3
+221,SVC,Trimmed Data Optimized,Training,0.99818,0.994772,4,3,No SMOTE,K4R3
+222,SVC,Trimmed Data Optimized,Test,0.704632,0.737042,4,3,No SMOTE,K4R3
+223,DT,Trimmed Data Optimized,Training,0.990964,0.92896,4,3,No SMOTE,K4R3
+224,DT,Trimmed Data Optimized,Test,0.719116,0.731603,4,3,No SMOTE,K4R3
+225,LR,Full Data Optimized,Training,0.74621,0.736656,4,4,No SMOTE,K4R4
+226,LR,Full Data Optimized,Test,0.689368,0.682535,4,4,No SMOTE,K4R4
+227,RFC,Full Data Optimized,Training,0.970451,0.936357,4,4,No SMOTE,K4R4
+228,RFC,Full Data Optimized,Test,0.79496,0.758705,4,4,No SMOTE,K4R4
+229,SVC,Full Data Optimized,Training,0.999279,0.997954,4,4,No SMOTE,K4R4
+230,SVC,Full Data Optimized,Test,0.71351,0.738982,4,4,No SMOTE,K4R4
+231,DT,Full Data Optimized,Training,1,1,4,4,No SMOTE,K4R4
+232,DT,Full Data Optimized,Test,0.616374,0.712149,4,4,No SMOTE,K4R4
+233,LR,Trimmed Data Optimized,Training,0.75223,0.722792,4,4,No SMOTE,K4R4
+234,LR,Trimmed Data Optimized,Test,0.69607,0.722458,4,4,No SMOTE,K4R4
+235,RFC,Trimmed Data Optimized,Training,0.9972,0.941866,4,4,No SMOTE,K4R4
+236,RFC,Trimmed Data Optimized,Test,0.772433,0.796841,4,4,No SMOTE,K4R4
+237,SVC,Trimmed Data Optimized,Training,0.998753,0.990633,4,4,No SMOTE,K4R4
+238,SVC,Trimmed Data Optimized,Test,0.705858,0.737042,4,4,No SMOTE,K4R4
+239,DT,Trimmed Data Optimized,Training,0.99759,0.963262,4,4,No SMOTE,K4R4
+240,DT,Trimmed Data Optimized,Test,0.673676,0.716045,4,4,No SMOTE,K4R4
+241,LR,Full Data Optimized,Training,0.74621,0.736656,5,2,No SMOTE,K5R2
+242,LR,Full Data Optimized,Test,0.689368,0.682535,5,2,No SMOTE,K5R2
+243,RFC,Full Data Optimized,Training,0.970451,0.936357,5,2,No SMOTE,K5R2
+244,RFC,Full Data Optimized,Test,0.79496,0.758705,5,2,No SMOTE,K5R2
+245,SVC,Full Data Optimized,Training,0.999279,0.997954,5,2,No SMOTE,K5R2
+246,SVC,Full Data Optimized,Test,0.71351,0.738982,5,2,No SMOTE,K5R2
+247,DT,Full Data Optimized,Training,1,1,5,2,No SMOTE,K5R2
+248,DT,Full Data Optimized,Test,0.616374,0.712149,5,2,No SMOTE,K5R2
+249,LR,Trimmed Data Optimized,Training,0.750666,0.7183,5,2,No SMOTE,K5R2
+250,LR,Trimmed Data Optimized,Test,0.69483,0.71531,5,2,No SMOTE,K5R2
+251,RFC,Trimmed Data Optimized,Training,0.9972,0.941866,5,2,No SMOTE,K5R2
+252,RFC,Trimmed Data Optimized,Test,0.772433,0.796841,5,2,No SMOTE,K5R2
+253,SVC,Trimmed Data Optimized,Training,0.998753,0.990633,5,2,No SMOTE,K5R2
+254,SVC,Trimmed Data Optimized,Test,0.705858,0.737042,5,2,No SMOTE,K5R2
+255,DT,Trimmed Data Optimized,Training,0.99759,0.963262,5,2,No SMOTE,K5R2
+256,DT,Trimmed Data Optimized,Test,0.673676,0.716045,5,2,No SMOTE,K5R2
+257,LR,Full Data Optimized,Training,0.74621,0.736656,5,3,No SMOTE,K5R3
+258,LR,Full Data Optimized,Test,0.689368,0.682535,5,3,No SMOTE,K5R3
+259,RFC,Full Data Optimized,Training,0.970451,0.936357,5,3,No SMOTE,K5R3
+260,RFC,Full Data Optimized,Test,0.79496,0.758705,5,3,No SMOTE,K5R3
+261,SVC,Full Data Optimized,Training,0.999279,0.997954,5,3,No SMOTE,K5R3
+262,SVC,Full Data Optimized,Test,0.71351,0.738982,5,3,No SMOTE,K5R3
+263,DT,Full Data Optimized,Training,1,1,5,3,No SMOTE,K5R3
+264,DT,Full Data Optimized,Test,0.616374,0.712149,5,3,No SMOTE,K5R3
+265,LR,Trimmed Data Optimized,Training,0.742204,0.716434,5,3,No SMOTE,K5R3
+266,LR,Trimmed Data Optimized,Test,0.695975,0.711638,5,3,No SMOTE,K5R3
+267,RFC,Trimmed Data Optimized,Training,0.995272,0.88464,5,3,No SMOTE,K5R3
+268,RFC,Trimmed Data Optimized,Test,0.772415,0.78524,5,3,No SMOTE,K5R3
+269,SVC,Trimmed Data Optimized,Training,0.999044,0.990633,5,3,No SMOTE,K5R3
+270,SVC,Trimmed Data Optimized,Test,0.702728,0.737042,5,3,No SMOTE,K5R3
+271,DT,Trimmed Data Optimized,Training,1,1,5,3,No SMOTE,K5R3
+272,DT,Trimmed Data Optimized,Test,0.667634,0.732853,5,3,No SMOTE,K5R3
+273,LR,Full Data Optimized,Training,0.74621,0.736656,5,4,No SMOTE,K5R4
+274,LR,Full Data Optimized,Test,0.689368,0.682535,5,4,No SMOTE,K5R4
+275,RFC,Full Data Optimized,Training,0.970451,0.936357,5,4,No SMOTE,K5R4
+276,RFC,Full Data Optimized,Test,0.79496,0.758705,5,4,No SMOTE,K5R4
+277,SVC,Full Data Optimized,Training,0.999279,0.997954,5,4,No SMOTE,K5R4
+278,SVC,Full Data Optimized,Test,0.71351,0.738982,5,4,No SMOTE,K5R4
+279,DT,Full Data Optimized,Training,1,1,5,4,No SMOTE,K5R4
+280,DT,Full Data Optimized,Test,0.616374,0.712149,5,4,No SMOTE,K5R4
+281,LR,Trimmed Data Optimized,Training,0.742204,0.716434,5,4,No SMOTE,K5R4
+282,LR,Trimmed Data Optimized,Test,0.695975,0.711638,5,4,No SMOTE,K5R4
+283,RFC,Trimmed Data Optimized,Training,0.995272,0.88464,5,4,No SMOTE,K5R4
+284,RFC,Trimmed Data Optimized,Test,0.772415,0.78524,5,4,No SMOTE,K5R4
+285,SVC,Trimmed Data Optimized,Training,0.999044,0.990633,5,4,No SMOTE,K5R4
+286,SVC,Trimmed Data Optimized,Test,0.702728,0.737042,5,4,No SMOTE,K5R4
+287,DT,Trimmed Data Optimized,Training,1,1,5,4,No SMOTE,K5R4
+288,DT,Trimmed Data Optimized,Test,0.667634,0.732853,5,4,No SMOTE,K5R4
+289,LR,Full Data Optimized,Training,0.732115,0.649443,3,2,SMOTE on Training,K3R2
+290,LR,Full Data Optimized,Test,0.676592,0.603152,3,2,SMOTE on Training,K3R2
+291,RFC,Full Data Optimized,Training,0.980197,0.909794,3,2,SMOTE on Training,K3R2
+292,RFC,Full Data Optimized,Test,0.767262,0.756938,3,2,SMOTE on Training,K3R2
+293,SVC,Full Data Optimized,Training,0.935211,0.87098,3,2,SMOTE on Training,K3R2
+294,SVC,Full Data Optimized,Test,0.739442,0.739543,3,2,SMOTE on Training,K3R2
+295,DT,Full Data Optimized,Training,0.944522,0.865373,3,2,SMOTE on Training,K3R2
+296,DT,Full Data Optimized,Test,0.639188,0.677114,3,2,SMOTE on Training,K3R2
+297,LR,Trimmed Data Optimized,Training,0.734179,0.635123,3,2,SMOTE on Training,K3R2
+298,LR,Trimmed Data Optimized,Test,0.687946,0.614997,3,2,SMOTE on Training,K3R2
+299,RFC,Trimmed Data Optimized,Training,0.997071,0.97875,3,2,SMOTE on Training,K3R2
+300,RFC,Trimmed Data Optimized,Test,0.773251,0.800259,3,2,SMOTE on Training,K3R2
+301,SVC,Trimmed Data Optimized,Training,0.5,0.807836,3,2,SMOTE on Training,K3R2
+302,SVC,Trimmed Data Optimized,Test,0.5,0.725645,3,2,SMOTE on Training,K3R2
+303,DT,Trimmed Data Optimized,Training,0.924111,0.882539,3,2,SMOTE on Training,K3R2
+304,DT,Trimmed Data Optimized,Test,0.683423,0.752115,3,2,SMOTE on Training,K3R2
+305,LR,Full Data Optimized,Training,0.72702,0.650068,3,3,SMOTE on Training,K3R3
+306,LR,Full Data Optimized,Test,0.665958,0.599351,3,3,SMOTE on Training,K3R3
+307,RFC,Full Data Optimized,Training,0.944917,0.881917,3,3,SMOTE on Training,K3R3
+308,RFC,Full Data Optimized,Test,0.760079,0.756182,3,3,SMOTE on Training,K3R3
+309,SVC,Full Data Optimized,Training,1,0.998973,3,3,SMOTE on Training,K3R3
+310,SVC,Full Data Optimized,Test,0.720093,0.744024,3,3,SMOTE on Training,K3R3
+311,DT,Full Data Optimized,Training,0.984876,0.924716,3,3,SMOTE on Training,K3R3
+312,DT,Full Data Optimized,Test,0.666393,0.685237,3,3,SMOTE on Training,K3R3
+313,LR,Trimmed Data Optimized,Training,0.734819,0.636101,3,3,SMOTE on Training,K3R3
+314,LR,Trimmed Data Optimized,Test,0.686476,0.609238,3,3,SMOTE on Training,K3R3
+315,RFC,Trimmed Data Optimized,Training,0.995544,0.973255,3,3,SMOTE on Training,K3R3
+316,RFC,Trimmed Data Optimized,Test,0.777014,0.774229,3,3,SMOTE on Training,K3R3
+317,SVC,Trimmed Data Optimized,Training,0.109546,0.808341,3,3,SMOTE on Training,K3R3
+318,SVC,Trimmed Data Optimized,Test,0.2685,0.709173,3,3,SMOTE on Training,K3R3
+319,DT,Trimmed Data Optimized,Training,0.992931,0.949546,3,3,SMOTE on Training,K3R3
+320,DT,Trimmed Data Optimized,Test,0.635094,0.706162,3,3,SMOTE on Training,K3R3
+321,LR,Full Data Optimized,Training,0.72702,0.650068,3,4,SMOTE on Training,K3R4
+322,LR,Full Data Optimized,Test,0.665958,0.599351,3,4,SMOTE on Training,K3R4
+323,RFC,Full Data Optimized,Training,0.960739,0.887659,3,4,SMOTE on Training,K3R4
+324,RFC,Full Data Optimized,Test,0.75456,0.750778,3,4,SMOTE on Training,K3R4
+325,SVC,Full Data Optimized,Training,0.999263,0.98781,3,4,SMOTE on Training,K3R4
+326,SVC,Full Data Optimized,Test,0.668585,0.720944,3,4,SMOTE on Training,K3R4
+327,DT,Full Data Optimized,Training,0.982578,0.921811,3,4,SMOTE on Training,K3R4
+328,DT,Full Data Optimized,Test,0.662551,0.700615,3,4,SMOTE on Training,K3R4
+329,LR,Trimmed Data Optimized,Training,0.734563,0.632606,3,4,SMOTE on Training,K3R4
+330,LR,Trimmed Data Optimized,Test,0.686053,0.607358,3,4,SMOTE on Training,K3R4
+331,RFC,Trimmed Data Optimized,Training,0.997485,0.978759,3,4,SMOTE on Training,K3R4
+332,RFC,Trimmed Data Optimized,Test,0.772252,0.786027,3,4,SMOTE on Training,K3R4
+333,SVC,Trimmed Data Optimized,Training,0.999153,0.997899,3,4,SMOTE on Training,K3R4
+334,SVC,Trimmed Data Optimized,Test,0.691641,0.737042,3,4,SMOTE on Training,K3R4
+335,DT,Trimmed Data Optimized,Training,0.951642,0.877143,3,4,SMOTE on Training,K3R4
+336,DT,Trimmed Data Optimized,Test,0.726308,0.721656,3,4,SMOTE on Training,K3R4
+337,LR,Full Data Optimized,Training,0.732115,0.649443,4,2,SMOTE on Training,K4R2
+338,LR,Full Data Optimized,Test,0.676592,0.603152,4,2,SMOTE on Training,K4R2
+339,RFC,Full Data Optimized,Training,0.960739,0.887659,4,2,SMOTE on Training,K4R2
+340,RFC,Full Data Optimized,Test,0.75456,0.750778,4,2,SMOTE on Training,K4R2
+341,SVC,Full Data Optimized,Training,0.999994,0.997954,4,2,SMOTE on Training,K4R2
+342,SVC,Full Data Optimized,Test,0.719142,0.737897,4,2,SMOTE on Training,K4R2
+343,DT,Full Data Optimized,Training,1,1,4,2,SMOTE on Training,K4R2
+344,DT,Full Data Optimized,Test,0.706319,0.738199,4,2,SMOTE on Training,K4R2
+345,LR,Trimmed Data Optimized,Training,0.734563,0.632606,4,2,SMOTE on Training,K4R2
+346,LR,Trimmed Data Optimized,Test,0.686053,0.607358,4,2,SMOTE on Training,K4R2
+347,RFC,Trimmed Data Optimized,Training,0.992294,0.961789,4,2,SMOTE on Training,K4R2
+348,RFC,Trimmed Data Optimized,Test,0.7778,0.798083,4,2,SMOTE on Training,K4R2
+349,SVC,Trimmed Data Optimized,Training,0.997731,0.992678,4,2,SMOTE on Training,K4R2
+350,SVC,Trimmed Data Optimized,Test,0.696105,0.737042,4,2,SMOTE on Training,K4R2
+351,DT,Trimmed Data Optimized,Training,0.987428,0.932337,4,2,SMOTE on Training,K4R2
+352,DT,Trimmed Data Optimized,Test,0.708596,0.745019,4,2,SMOTE on Training,K4R2
+353,LR,Full Data Optimized,Training,0.72702,0.650068,4,3,SMOTE on Training,K4R3
+354,LR,Full Data Optimized,Test,0.665958,0.599351,4,3,SMOTE on Training,K4R3
+355,RFC,Full Data Optimized,Training,0.944917,0.881917,4,3,SMOTE on Training,K4R3
+356,RFC,Full Data Optimized,Test,0.760079,0.756182,4,3,SMOTE on Training,K4R3
+357,SVC,Full Data Optimized,Training,0.933424,0.865694,4,3,SMOTE on Training,K4R3
+358,SVC,Full Data Optimized,Test,0.736211,0.725808,4,3,SMOTE on Training,K4R3
+359,DT,Full Data Optimized,Training,0.991771,0.944616,4,3,SMOTE on Training,K4R3
+360,DT,Full Data Optimized,Test,0.62432,0.663172,4,3,SMOTE on Training,K4R3
+361,LR,Trimmed Data Optimized,Training,0.735824,0.642237,4,3,SMOTE on Training,K4R3
+362,LR,Trimmed Data Optimized,Test,0.686899,0.616988,4,3,SMOTE on Training,K4R3
+363,RFC,Trimmed Data Optimized,Training,0.993935,0.969202,4,3,SMOTE on Training,K4R3
+364,RFC,Trimmed Data Optimized,Test,0.770645,0.814543,4,3,SMOTE on Training,K4R3
+365,SVC,Trimmed Data Optimized,Training,0.998307,0.992697,4,3,SMOTE on Training,K4R3
+366,SVC,Trimmed Data Optimized,Test,0.699889,0.734147,4,3,SMOTE on Training,K4R3
+367,DT,Trimmed Data Optimized,Training,0.992931,0.949546,4,3,SMOTE on Training,K4R3
+368,DT,Trimmed Data Optimized,Test,0.635094,0.706162,4,3,SMOTE on Training,K4R3
+369,LR,Full Data Optimized,Training,0.72702,0.650068,4,4,SMOTE on Training,K4R4
+370,LR,Full Data Optimized,Test,0.665958,0.599351,4,4,SMOTE on Training,K4R4
+371,RFC,Full Data Optimized,Training,0.980197,0.909794,4,4,SMOTE on Training,K4R4
+372,RFC,Full Data Optimized,Test,0.767262,0.756938,4,4,SMOTE on Training,K4R4
+373,SVC,Full Data Optimized,Training,0.935211,0.87098,4,4,SMOTE on Training,K4R4
+374,SVC,Full Data Optimized,Test,0.739442,0.739543,4,4,SMOTE on Training,K4R4
+375,DT,Full Data Optimized,Training,1,1,4,4,SMOTE on Training,K4R4
+376,DT,Full Data Optimized,Test,0.667486,0.710459,4,4,SMOTE on Training,K4R4
+377,LR,Trimmed Data Optimized,Training,0.734849,0.638845,4,4,SMOTE on Training,K4R4
+378,LR,Trimmed Data Optimized,Test,0.687561,0.610304,4,4,SMOTE on Training,K4R4
+379,RFC,Trimmed Data Optimized,Training,0.997123,0.981974,4,4,SMOTE on Training,K4R4
+380,RFC,Trimmed Data Optimized,Test,0.775637,0.78766,4,4,SMOTE on Training,K4R4
+381,SVC,Trimmed Data Optimized,Training,0.9991,0.997899,4,4,SMOTE on Training,K4R4
+382,SVC,Trimmed Data Optimized,Test,0.644543,0.729006,4,4,SMOTE on Training,K4R4
+383,DT,Trimmed Data Optimized,Training,0.968488,0.894301,4,4,SMOTE on Training,K4R4
+384,DT,Trimmed Data Optimized,Test,0.705674,0.729256,4,4,SMOTE on Training,K4R4
+385,LR,Full Data Optimized,Training,0.72702,0.650068,5,2,SMOTE on Training,K5R2
+386,LR,Full Data Optimized,Test,0.665958,0.599351,5,2,SMOTE on Training,K5R2
+387,RFC,Full Data Optimized,Training,0.958606,0.890163,5,2,SMOTE on Training,K5R2
+388,RFC,Full Data Optimized,Test,0.761505,0.756938,5,2,SMOTE on Training,K5R2
+389,SVC,Full Data Optimized,Training,0.935211,0.87098,5,2,SMOTE on Training,K5R2
+390,SVC,Full Data Optimized,Test,0.739442,0.739543,5,2,SMOTE on Training,K5R2
+391,DT,Full Data Optimized,Training,1,1,5,2,SMOTE on Training,K5R2
+392,DT,Full Data Optimized,Test,0.667486,0.710459,5,2,SMOTE on Training,K5R2
+393,LR,Trimmed Data Optimized,Training,0.734174,0.635123,5,2,SMOTE on Training,K5R2
+394,LR,Trimmed Data Optimized,Test,0.688023,0.610984,5,2,SMOTE on Training,K5R2
+395,RFC,Trimmed Data Optimized,Training,0.996928,0.977656,5,2,SMOTE on Training,K5R2
+396,RFC,Trimmed Data Optimized,Test,0.774864,0.784163,5,2,SMOTE on Training,K5R2
+397,SVC,Trimmed Data Optimized,Training,0.999163,0.997899,5,2,SMOTE on Training,K5R2
+398,SVC,Trimmed Data Optimized,Test,0.702992,0.734147,5,2,SMOTE on Training,K5R2
+399,DT,Trimmed Data Optimized,Training,0.992931,0.949546,5,2,SMOTE on Training,K5R2
+400,DT,Trimmed Data Optimized,Test,0.635094,0.706162,5,2,SMOTE on Training,K5R2
+401,LR,Full Data Optimized,Training,0.72702,0.650068,5,3,SMOTE on Training,K5R3
+402,LR,Full Data Optimized,Test,0.665958,0.599351,5,3,SMOTE on Training,K5R3
+403,RFC,Full Data Optimized,Training,0.944917,0.881917,5,3,SMOTE on Training,K5R3
+404,RFC,Full Data Optimized,Test,0.760079,0.756182,5,3,SMOTE on Training,K5R3
+405,SVC,Full Data Optimized,Training,0.933424,0.865694,5,3,SMOTE on Training,K5R3
+406,SVC,Full Data Optimized,Test,0.736211,0.725808,5,3,SMOTE on Training,K5R3
+407,DT,Full Data Optimized,Training,0.984876,0.924716,5,3,SMOTE on Training,K5R3
+408,DT,Full Data Optimized,Test,0.666393,0.685237,5,3,SMOTE on Training,K5R3
+409,LR,Trimmed Data Optimized,Training,0.738691,0.64059,5,3,SMOTE on Training,K5R3
+410,LR,Trimmed Data Optimized,Test,0.678812,0.609008,5,3,SMOTE on Training,K5R3
+411,RFC,Trimmed Data Optimized,Training,0.996404,0.974504,5,3,SMOTE on Training,K5R3
+412,RFC,Trimmed Data Optimized,Test,0.777411,0.787477,5,3,SMOTE on Training,K5R3
+413,SVC,Trimmed Data Optimized,Training,0.999163,0.997899,5,3,SMOTE on Training,K5R3
+414,SVC,Trimmed Data Optimized,Test,0.702992,0.734147,5,3,SMOTE on Training,K5R3
+415,DT,Trimmed Data Optimized,Training,0.969483,0.901433,5,3,SMOTE on Training,K5R3
+416,DT,Trimmed Data Optimized,Test,0.675741,0.709471,5,3,SMOTE on Training,K5R3
+417,LR,Full Data Optimized,Training,0.72702,0.650068,5,4,SMOTE on Training,K5R4
+418,LR,Full Data Optimized,Test,0.665958,0.599351,5,4,SMOTE on Training,K5R4
+419,RFC,Full Data Optimized,Training,0.941256,0.874816,5,4,SMOTE on Training,K5R4
+420,RFC,Full Data Optimized,Test,0.757725,0.775708,5,4,SMOTE on Training,K5R4
+421,SVC,Full Data Optimized,Training,0.999994,0.997944,5,4,SMOTE on Training,K5R4
+422,SVC,Full Data Optimized,Test,0.716003,0.748945,5,4,SMOTE on Training,K5R4
+423,DT,Full Data Optimized,Training,0.997505,0.970977,5,4,SMOTE on Training,K5R4
+424,DT,Full Data Optimized,Test,0.64701,0.669227,5,4,SMOTE on Training,K5R4
+425,LR,Trimmed Data Optimized,Training,0.737735,0.638283,5,4,SMOTE on Training,K5R4
+426,LR,Trimmed Data Optimized,Test,0.683408,0.623188,5,4,SMOTE on Training,K5R4
+427,RFC,Trimmed Data Optimized,Training,0.999098,0.989439,5,4,SMOTE on Training,K5R4
+428,RFC,Trimmed Data Optimized,Test,0.783731,0.786254,5,4,SMOTE on Training,K5R4
+429,SVC,Trimmed Data Optimized,Training,0.999175,0.997899,5,4,SMOTE on Training,K5R4
+430,SVC,Trimmed Data Optimized,Test,0.689902,0.744985,5,4,SMOTE on Training,K5R4
+431,DT,Trimmed Data Optimized,Training,0.966602,0.888826,5,4,SMOTE on Training,K5R4
+432,DT,Trimmed Data Optimized,Test,0.684798,0.723056,5,4,SMOTE on Training,K5R4
